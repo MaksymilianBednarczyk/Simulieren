@@ -1,0 +1,13 @@
+
+  <Straßenbegebenheit>
+    <Stau/>
+    <Hindernisse/>
+    <Untergrund/>
+    <Unfaelle/>
+  </Straßenbegebenheit>
+  <ZeichenImStraßenverkehr>
+    <Dauerlichtzeichenanlage/>
+    <Lichtwechselzeichenanlage/>
+    <Verkehrsschilder/>
+  </ZeichenImStraßenverkehr>
+</Verkehrsinformationen>
