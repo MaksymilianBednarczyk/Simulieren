@@ -1,6 +1,5 @@
 <Verkehrsinformationen>
     <Fahrzeuginformationen>
-    <BAJOJAJO/>
     <EigeneGeschwindigkeit/>
     <GeschwindigkeitDerAnderen/>
   </Fahrzeuginformationen>
@@ -10,8 +9,8 @@
     <Untergrund/>
     <Unfaelle/>
   </Straßenbegebenheit>
-  <ZeichenImStraßenverkehr>
-    <Dauerlichtzeichenanlage/>
+  <ZeichenImStraßenverkehr> 
+    <Dauerlichtzeichenanlage>50km/h<Dauerlichtzeichenanlage/>
     <Lichtwechselzeichenanlage/>
     <Verkehrsschilder/>
   </ZeichenImStraßenverkehr>
